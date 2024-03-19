@@ -1,0 +1,30 @@
+La linea {"nombre": "Corney", "apellido": "Brannan", "email": "cbrannan3@amazon.co.uk", "genero": "Bigender"}
+ arrojó el error: Expecting ',' delimiter: line 2 column 1 (char 99)
+La linea {"nombre": "Stacee", "apellido": "Blakeney", "email": "sblakeney6@i2i.jp", "genero": "Agender"}
+ arrojó el error: Expecting property name enclosed in double quotes: line 1 column 40 (char 39)
+La linea {"nombre": "Llywellyn", "apellido": "Hendrickson", "email": "lhendrickson8@usgs.gov", "genero": "Genderqueer"}
+ arrojó el error: Expecting value: line 1 column 88 (char 87)
+La linea {"nombre": "Corney", "apellido": "Brannan", "email": "cbrannan3@amazon.co.uk", "genero": "Bigender"}
+ arrojó el error: Expecting ',' delimiter: line 2 column 1 (char 99)
+La linea {"nombre": "Stacee", "apellido": "Blakeney", "email": "sblakeney6@i2i.jp", "genero": "Agender"}
+ arrojó el error: Expecting property name enclosed in double quotes: line 1 column 40 (char 39)
+La linea {"nombre": "Llywellyn", "apellido": "Hendrickson", "email": "lhendrickson8@usgs.gov", "genero": "Genderqueer"}
+ arrojó el error: Expecting value: line 1 column 88 (char 87)
+La linea {"nombre": "Corney", "apellido": "Brannan", "email": "cbrannan3@amazon.co.uk", "genero": "Bigender"}
+ arrojó el error: Expecting ',' delimiter: line 2 column 1 (char 99)
+La linea {"nombre": "Stacee", "apellido": "Blakeney", "email": "sblakeney6@i2i.jp", "genero": "Agender"}
+ arrojó el error: Expecting property name enclosed in double quotes: line 1 column 40 (char 39)
+La linea {"nombre": "Llywellyn", "apellido": "Hendrickson", "email": "lhendrickson8@usgs.gov", "genero": "Genderqueer"}
+ arrojó el error: Expecting value: line 1 column 88 (char 87)
+La linea {"nombre": "Corney", "apellido": "Brannan", "email": "cbrannan3@amazon.co.uk", "genero": "Bigender"}
+ arrojó el error: Expecting ',' delimiter: line 2 column 1 (char 99)
+La linea {"nombre": "Stacee", "apellido": "Blakeney", "email": "sblakeney6@i2i.jp", "genero": "Agender"}
+ arrojó el error: Expecting property name enclosed in double quotes: line 1 column 40 (char 39)
+La linea {"nombre": "Llywellyn", "apellido": "Hendrickson", "email": "lhendrickson8@usgs.gov", "genero": "Genderqueer"}
+ arrojó el error: Expecting value: line 1 column 88 (char 87)
+La linea {"nombre": "Corney", "apellido": "Brannan", "email": "cbrannan3@amazon.co.uk", "genero": "Bigender"}
+ arrojó el error: Expecting ',' delimiter: line 2 column 1 (char 99)
+La linea {"nombre": "Stacee", "apellido": "Blakeney", "email": "sblakeney6@i2i.jp", "genero": "Agender"}
+ arrojó el error: Expecting property name enclosed in double quotes: line 1 column 40 (char 39)
+La linea {"nombre": "Llywellyn", "apellido": "Hendrickson", "email": "lhendrickson8@usgs.gov", "genero": "Genderqueer"}
+ arrojó el error: Expecting value: line 1 column 88 (char 87)
